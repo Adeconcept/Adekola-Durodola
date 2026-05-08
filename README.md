@@ -75,6 +75,11 @@ I recently passed the CompTIA Security+ certification as my journey in Product s
     <a href="https://www.elastic.co/security/siem"><img src="https://img.shields.io/badge/-Elastic-0B65DD?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=amazon%20AWS&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
