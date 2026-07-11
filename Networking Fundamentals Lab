@@ -69,7 +69,7 @@ UDP:
 ```bash
 ifconfig
 
-Test Connectivity
+## Test Connectivity
 ping google.com
 
 Purpose:
@@ -77,3 +77,51 @@ Checks whether a host is reachable.
 
 Screenshot:
 
+## DNS Lookup
+nslookup google.com
+
+Purpose:
+Resolves domain names into IP addresses.
+
+Screenshot
+
+
+### Wireshark Analysis
+
+Captured and analyzed:
+
+- DNS queries
+- TCP handshake
+- HTTPS traffic
+- ARP communication
+
+Screenshot:
+
+----
+
+##Challenges
+
+Initially, I found it difficult to understand the difference between IP addresses and MAC addresses.
+After practicing with ARP tables and Wireshark captures, I understood that:
+
+- IP addresses identify devices across networks.
+- MAC addresses identify devices within a local network.
+
+----
+
+##Key Takeaways
+
+This lab helped me build a foundation in networking and prepared me for future cybersecurity topics including:
+
+- Security monitoring
+- SIEM analysis
+- Threat detection
+- Incident response
+
+----
+
+
+Related Article
+
+I documented the learning journey and lessons learned in more detail on Medium:
+[Medium](https://medium.com/@koskiddoo/network-fundamentals-understanding-how-devices-communicate-e1c2d651e910)
