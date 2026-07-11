@@ -1,1 +1,79 @@
+## Networking Fundamentals Lab
+
+## OVERVIEW
+
+This lab covers the networking concepts I learned as part of my cybersecurity journey.
+
+The goal was to understand how devices communicate, how data travels across networks, and how networking knowledge supports security monitoring and incident response.
+
+---
+
+## OBJECTIVES
+
+- Understand the OSI Model
+- Learn TCP/IP fundamentals
+- Practice network troubleshooting commands
+- Analyze network traffic using Wireshark
+- Understand common protocols and ports
+
+---
+
+## CONCEPTS LEARNED
+
+### OSI Model
+
+The OSI Model provides a framework for understanding how communication happens between devices.
+
+In cybersecurity, it helps identify where issues or attacks occur within a network.
+
+Example:
+
+- Layer 3: IP addressing and routing
+- Layer 4: TCP/UDP communication
+- Layer 7: Application protocols like HTTP and DNS
+
+---
+
+### TCP vs UDP
+
+TCP provides reliable communication through acknowledgements and retransmissions.
+
+UDP focuses on speed and is commonly used where low latency matters.
+
+Examples:
+
+TCP:
+- HTTPS
+- SSH
+
+UDP:
+- DNS
+- Streaming
+
+---
+
+## TOOLS USED
+
+| Tool | Purpose |
+|---|---|
+| Wireshark | Packet analysis |
+| Terminal | Network troubleshooting |
+| Linux networking tools | Network information gathering |
+
+---
+
+## COMMANDS PRACTICED
+
+### View Network Configuration
+
+```bash
+ifconfig
+
+Test Connectivity
+ping google.com
+
+Purpose:
+Checks whether a host is reachable.
+
+Screenshot:
 
