@@ -66,7 +66,7 @@ UDP:
 
 ### View Network Configuration
 ifconfig
-
+![ifconfig output](ifconfig.png)
 
 ## Test Connectivity
 ping google.com
@@ -82,7 +82,7 @@ nslookup google.com
 Purpose:
 Resolves domain names into IP addresses.
 
-
+![nslookup output](nslookup.png)
 
 
 ### Wireshark Analysis
