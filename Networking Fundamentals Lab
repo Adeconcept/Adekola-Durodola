@@ -65,9 +65,8 @@ UDP:
 ## COMMANDS PRACTICED
 
 ### View Network Configuration
-
-```bash
 ifconfig
+
 
 ## Test Connectivity
 ping google.com
@@ -83,7 +82,7 @@ nslookup google.com
 Purpose:
 Resolves domain names into IP addresses.
 
-Screenshot
+
 
 
 ### Wireshark Analysis
