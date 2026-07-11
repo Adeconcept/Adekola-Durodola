@@ -21,15 +21,13 @@ I recently passed the CompTIA Security+ certification as my journey in Product s
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Description & Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Adeconcept/Home-SOC-Lab">Home SOC Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Creating detections (MITRE ATT&CK)                                    | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Threat Detection Lab</a>|
+| Investigating security events (Splunk, Alerts)                        | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">SIEM Detection Lab</a>|
+| Building a monitoring environment (SIEM, Logs, Detection)             | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Home SOC Lab</a>|
+| Linux commands and hardening (Linux, Bash)                            | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Linux Security Lab</a>|
+| Network analysis, protocols, troubleshooting (TCP/IP, Wireshark, DNS) | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Networking Fundamentals</a>|
 
 
 ## Tools
