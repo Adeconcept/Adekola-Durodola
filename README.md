@@ -42,6 +42,11 @@ I recently passed the CompTIA Security+ certification as my journey in Product s
 - Splunk (Learning)
 - Microsoft Sentinel (Learning)
 
+
+## ✍️ Articles
+My technical writings: [Medium](https://medium.com/@koskiddoo)
+
+
 ## Product & Design background
 - UX/UI Design
 - Design Systems
@@ -49,6 +54,7 @@ I recently passed the CompTIA Security+ certification as my journey in Product s
 - Product Strategy
 - Accessibility (WCAG)
 - Cross-functional Collaboration
+
 
 ### Network & Traffic Analysis
 <div>
