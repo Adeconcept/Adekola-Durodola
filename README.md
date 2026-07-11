@@ -27,7 +27,7 @@ I recently passed the CompTIA Security+ certification as my journey in Product s
 | Investigating security events (Splunk, Alerts)                        | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">SIEM Detection Lab</a>|
 | Building a monitoring environment (SIEM, Logs, Detection)             | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Home SOC Lab</a>|
 | Linux commands and hardening (Linux, Bash)                            | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Linux Security Lab</a>|
-| Network analysis, protocols, troubleshooting (TCP/IP, Wireshark, DNS) | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Networking Fundamentals</a>|
+| Network analysis, protocols, troubleshooting (TCP/IP, Wireshark, DNS) | <a href="https://github.com/Adeconcept/Networking-Fundamentals-Lab">Networking Fundamentals</a>|
 
 
 ## Tools
