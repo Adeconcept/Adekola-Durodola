@@ -24,7 +24,7 @@ I recently passed the CompTIA Security+ certification as my journey in Product s
 | Description & Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Creating detections (MITRE ATT&CK)                                    | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Threat Detection Lab</a>|
-| Investigating security events (Splunk, SIEM, Dashboard)                        | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/SIEM%20Implementation/README.md">SIEM Detection Lab</a>|
+| Investigating security events (Splunk, SIEM, Dashboard)                        | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/02_SIEM%20Detection%20lab/README.md">SIEM Detection Lab</a>|
 | Building a monitoring environment (Sysmon, Logs, Detection)             | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/Endpoint%20Monitoring%20Lab/README.md">Home SOC Lab</a>|
 | Windows security investigation (Windows, Powershell)                            | <a href="https://github.com/Adeconcept/Windows-Security-Investigation">Windows Security Investigation</a>|
 | Linux commands and investigation (Linux, Bash)                            | <a href="https://github.com/Adeconcept/Linux-Security-Investigation-Report">Linux Investigation Lab</a>|
