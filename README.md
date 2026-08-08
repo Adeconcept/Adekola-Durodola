@@ -23,7 +23,10 @@ I recently passed the CompTIA Security+ certification as my journey in Product s
 
 | Description & Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Creating detections (MITRE ATT&CK)                                    | <a href="https://github.com/Adeconcept/Adekola-Durodola/blob/Adekola-Durodola/01_Networking%20Fundamentals%20Lab">Threat Detection Lab</a>|
+|  Threat Hunting (Splunk)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/06_Threat%20Hunting%20Lab/README.md">Threat Hunting Lab</a>|
+|  Network monitoring, traffic analysis, threat hunting (Wireshark)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/05_Network%20Monitoring/README.md">Network Monitoring</a>|
+| Threat hunting and adversary simulation (MITRE ATT&CK, Atomic Red Team)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/04_Atomic%20Red%20Team%20Detection%20Validation%20Lab/README.md">Atomic Red Team Hunting Lab</a>|
+| Creating detections (MITRE ATT&CK)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/03_Threat%20Detection%20lab/README.md">Threat Detection Lab</a>|
 | Investigating security events (Splunk, SIEM, Dashboard)                        | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/02_SIEM%20Detection%20lab/README.md">SIEM Detection Lab</a>|
 | Building a monitoring environment (Sysmon, Logs, Detection)             | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/Endpoint%20Monitoring%20Lab/README.md">Home SOC Lab</a>|
 | Windows security investigation (Windows, Powershell)                            | <a href="https://github.com/Adeconcept/Windows-Security-Investigation">Windows Security Investigation</a>|
@@ -39,6 +42,7 @@ I recently passed the CompTIA Security+ certification as my journey in Product s
 - Windows
 - GitHub
 - Splunk
+- Elastic
 - Microsoft Sentinel (Learning)
 
 
@@ -88,8 +92,4 @@ My technical writings: [Medium](https://medium.com/@koskiddoo)
 
 ## Projects
 - <a href="https://github.com/Adeconcept/Home-SOC-Lab">Home SOC Lab</a> 
-- Network Scanning with Nmap
-- Wireshark Traffic Analysis
-- Phishing Analysis
-- Detection Lab
-- SOC Automation Project
+
