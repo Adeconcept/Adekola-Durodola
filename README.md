@@ -124,7 +124,6 @@ My goal is to grow into a security professional who can understand **how systems
     <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EE1B2E?style=for-the-badge&logo=comptia&logoColor=white" /> 
 </div>
 
-**CompTIA Security+**
 
 Foundation across threats, vulnerabilities, security architecture, security operations, identity, risk management and incident response.
 
