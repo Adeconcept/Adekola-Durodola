@@ -43,7 +43,7 @@ My goal is to grow into a security professional who can understand **how systems
 
 | Seurity Capability                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security program assessment, risk identification, control evaluation, remediation planning (NIST CSF, Risk Management) | [Security Program Risk Assessment](https://github.com/Adeconcept/Security-program-risk-assessment) |
+| Security program assessment, risk identification, control evaluation, remediation planning (NIST CSF, Risk Management) | [Security Program Risk Assessment](https://github.com/Adeconcept/Velora-GmbH/tree/project/Security-program-risk-assessment-project) |
 | Threat hunting with SPL, hypothesis-driven investigation and event correlation (Splunk)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/06_Threat%20Hunting%20Lab/README.md">Threat Hunting Lab</a>|
 | Network monitoring, packet analysis and suspicious traffic investigation hunting (Wireshark)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/05_Network%20Monitoring/README.md">Network Monitoring</a>|
 | Adversary emulation and detection validation using MITRE ATT&CK (MITRE ATT&CK, Atomic Red Team)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/04_Atomic%20Red%20Team%20Detection%20Validation%20Lab/README.md">Atomic Red Team Hunting Lab</a>|
