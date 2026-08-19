@@ -41,7 +41,7 @@ My goal is to grow into a security professional who can understand **how systems
 
 ## 🛡️ Security Projects
 
-### Detection & Security Operations
+### ### Detection, Investigation & Security Operations
 - [Threat Hunting Lab](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/06_Threat%20Hunting%20Lab)  
   SPL-based threat hunting, hypothesis-driven investigation, and event correlation.
 
@@ -53,6 +53,9 @@ My goal is to grow into a security professional who can understand **how systems
 
 - [SIEM Detection Lab](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/02_SIEM%20Detection%20lab)  
   SIEM investigation, SPL analysis, dashboards, and security event triage (SPLUNK).
+
+- [Phishing Triage Investigation](https://github.com/Adeconcept/Home-SOC-Lab/tree/project/07_Phishing%20Triage%20Investigation)  
+  Phishing email triage, IOC analysis, evidence review, verdict determination, and escalation recommendations.
 
 ---
 
