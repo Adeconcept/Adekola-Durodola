@@ -43,6 +43,8 @@ My goal is to grow into a security professional who can understand **how systems
 
 | Seurity Capability                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Third-party risk assessment, vendor security controls, compliance review, remediation recommendations | [Control & Compliance Vendor Review](https://github.com/Adeconcept/Velora-GmbH/tree/7e7081dd93a4baec2ee349cd22eca016ebaffa47/Control-and-compliance-vendor-review) |
+| Identity governance, access reviews, RBAC, least privilege, access risk and remediation | [Identity & Access Governance](https://github.com/Adeconcept/Velora-GmbH/tree/7e7081dd93a4baec2ee349cd22eca016ebaffa47/Identity-and-access-governance) |
 | Security program assessment, risk identification, control evaluation, remediation planning (NIST CSF, Risk Management) | [Security Program Risk Assessment](https://github.com/Adeconcept/Velora-GmbH/tree/project/Security-program-risk-assessment-project) |
 | Threat hunting with SPL, hypothesis-driven investigation and event correlation (Splunk)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/06_Threat%20Hunting%20Lab/README.md">Threat Hunting Lab</a>|
 | Network monitoring, packet analysis and suspicious traffic investigation hunting (Wireshark)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/05_Network%20Monitoring/README.md">Network Monitoring</a>|
