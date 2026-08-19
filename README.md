@@ -41,6 +41,61 @@ My goal is to grow into a security professional who can understand **how systems
 
 ## 🛡️ Security Projects
 
+### Detection & Security Operations
+- [Threat Hunting Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/project/06_Threat%20Hunting%20Lab/README.md)  
+  SPL-based threat hunting, hypothesis-driven investigation, and event correlation.
+
+- [Atomic Red Team Detection Validation](https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/04_Atomic%20Red%20Team%20Detection%20Validation%20Lab/README.md)  
+  Adversary emulation, MITRE ATT&CK mapping, and detection validation.
+
+- [Threat Detection Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/03_Threat%20Detection%20lab/README.md)  
+  Detection engineering and MITRE ATT&CK-aligned security detections.
+
+- [SIEM Detection Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/project/02_SIEM%20Detection%20lab/README.md)  
+  SIEM investigation, SPL analysis, dashboards, and security event triage.
+
+---
+
+### Governance, Risk & Compliance
+- [Security Program Risk Assessment](https://github.com/Adeconcept/Velora-GmbH/tree/project/Security-program-risk-assessment-project)  
+  Security program assessment, risk identification, control evaluation, and remediation planning using NIST CSF principles.
+
+- [Control & Compliance Vendor Review](https://github.com/Adeconcept/Velora-GmbH/tree/7e7081dd93a4baec2ee349cd22eca016ebaffa47/Control-and-compliance-vendor-review)  
+  Third-party risk assessment, vendor security control review, compliance analysis, and remediation recommendations.
+
+---
+
+### Identity & Access Security
+- [Identity & Access Governance](https://github.com/Adeconcept/Velora-GmbH/tree/7e7081dd93a4baec2ee349cd22eca016ebaffa47/Identity-and-access-governance)  
+  Access reviews, RBAC, least privilege, identity governance, access risk, and remediation.
+
+---
+
+### Endpoint & System Security
+- [Endpoint Monitoring Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/project/Endpoint%20Monitoring%20Lab/README.md)  
+  Endpoint telemetry, Sysmon logging, Windows event collection, and security monitoring.
+
+- [Windows Security Investigation](https://github.com/Adeconcept/Windows-Security-Investigation)  
+  Windows event investigation, PowerShell analysis, and security log review.
+
+- [Linux Investigation Lab](https://github.com/Adeconcept/Linux-Security-Investigation-Report)  
+  Linux authentication analysis, system logs, Bash, and host investigation.
+
+---
+
+### Network Security & Monitoring
+- [Network Monitoring & Threat Hunting](https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/05_Network%20Monitoring/README.md)  
+  Network monitoring, packet analysis, suspicious traffic investigation, and threat hunting with Wireshark.
+
+- [Networking Fundamentals Lab](https://github.com/Adeconcept/Networking-Fundamentals-Lab)  
+  TCP/IP, DNS, network protocols, Wireshark analysis, and troubleshooting.
+
+---
+
+📂 **Complete Security Operations Environment:** [Home SOC Lab](https://github.com/Adeconcept/Home-SOC-Lab)
+
+
+
 | Seurity Capability                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Third-party risk assessment, vendor security controls, compliance review, remediation recommendations | [Control & Compliance Vendor Review](https://github.com/Adeconcept/Velora-GmbH/tree/7e7081dd93a4baec2ee349cd22eca016ebaffa47/Control-and-compliance-vendor-review) |
@@ -161,18 +216,17 @@ I’m particularly interested in the intersection of **technology, users, system
 
 ---
 
-
 ## 🚀 Currently Building
 
 Expanding my hands-on security experience across:
 
-- ☁️ **Cloud Security** — AWS, IAM, CloudTrail, security monitoring
-- 🔑 **Identity & Access Management** — authentication, authorization, least privilege
-- 🔎 **Vulnerability Management** — discovery, assessment, prioritization, remediation
-- 🎯 **Detection Engineering** — detection logic, MITRE ATT&CK mapping, validation
-- 🕵️ **Threat Hunting** — hypothesis-driven investigations and behavioral analysis
-- 🚨 **Incident Response** — triage, investigation, containment and reporting
-- ⚙️ **Security Automation** — scripting and repeatable security workflows
+- ☁️ **Cloud Security**: AWS security architecture, logging, IAM and monitoring
+- 🔎 **Vulnerability Management**: discovery, prioritization, remediation and reporting
+- 🚨 **Incident Response**: triage, containment, investigation and lessons learned
+- ⚙️ **Security Automation**: PowerShell, Python and repeatable security workflows
+- 🔐 **Identity Security**: privileged access, lifecycle management and access governance
+- 📋 **GRC**: control mapping, third-party risk and compliance assessments
+- - 🕵️ **Threat Hunting** — hypothesis-driven investigations and behavioral analysis
 
 ---
 
