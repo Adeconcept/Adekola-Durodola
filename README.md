@@ -2,7 +2,7 @@
 
 > Security+ Certified | Cybersecurity Generalist | Product Designer transitioning into Security
 
-I’m building hands-on cybersecurity experience across security operations, threat detection, threat hunting, network security, identity management, endpoint monitoring, cloud security, incident investigation and secure product experiences.
+I’m building hands-on cybersecurity experience across security operations, threat detection, threat hunting, network security, identity management, endpoint monitoring, cloud security, incident investigation & response and secure product experiences.
 
 I bring 6+ years of experience designing digital products across fintech, Web3, logistics, and enterprise environments, applying the same systems thinking, problem-solving, documentation, and risk-focused mindset to cybersecurity.
 Now I’m applying that problem-solving mindset to technology and a dedication to solving complex problems in cybersecurity.
