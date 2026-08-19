@@ -42,16 +42,16 @@ My goal is to grow into a security professional who can understand **how systems
 ## 🛡️ Security Projects
 
 ### Detection & Security Operations
-- [Threat Hunting Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/project/06_Threat%20Hunting%20Lab/README.md)  
+- [Threat Hunting Lab](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/06_Threat%20Hunting%20Lab)  
   SPL-based threat hunting, hypothesis-driven investigation, and event correlation.
 
-- [Atomic Red Team Detection Validation](https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/04_Atomic%20Red%20Team%20Detection%20Validation%20Lab/README.md)  
+- [Atomic Red Team Detection Validation](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/04_Atomic%20Red%20Team%20Detection%20Validation%20Lab)  
   Adversary emulation, MITRE ATT&CK mapping, and detection validation.
 
-- [Threat Detection Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/03_Threat%20Detection%20lab/README.md)  
+- [Threat Detection Lab](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/03_Threat%20Detection%20lab)  
   Detection engineering and MITRE ATT&CK-aligned security detections.
 
-- [SIEM Detection Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/project/02_SIEM%20Detection%20lab/README.md)  
+- [SIEM Detection Lab](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/02_SIEM%20Detection%20lab)  
   SIEM investigation, SPL analysis, dashboards, and security event triage.
 
 ---
@@ -93,26 +93,6 @@ My goal is to grow into a security professional who can understand **how systems
 ---
 
 📂 **Complete Security Operations Environment:** [Home SOC Lab](https://github.com/Adeconcept/Home-SOC-Lab)
-
-
-
-| Seurity Capability                                        | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Third-party risk assessment, vendor security controls, compliance review, remediation recommendations | [Control & Compliance Vendor Review](https://github.com/Adeconcept/Velora-GmbH/tree/7e7081dd93a4baec2ee349cd22eca016ebaffa47/Control-and-compliance-vendor-review) |
-| Identity governance, access reviews, RBAC, least privilege, access risk and remediation | [Identity & Access Governance](https://github.com/Adeconcept/Velora-GmbH/tree/7e7081dd93a4baec2ee349cd22eca016ebaffa47/Identity-and-access-governance) |
-| Security program assessment, risk identification, control evaluation, remediation planning (NIST CSF, Risk Management) | [Security Program Risk Assessment](https://github.com/Adeconcept/Velora-GmbH/tree/project/Security-program-risk-assessment-project) |
-| Threat hunting with SPL, hypothesis-driven investigation and event correlation (Splunk)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/06_Threat%20Hunting%20Lab/README.md">Threat Hunting Lab</a>|
-| Network monitoring, packet analysis and suspicious traffic investigation hunting (Wireshark)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/05_Network%20Monitoring/README.md">Network Monitoring</a>|
-| Adversary emulation and detection validation using MITRE ATT&CK (MITRE ATT&CK, Atomic Red Team)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/04_Atomic%20Red%20Team%20Detection%20Validation%20Lab/README.md">Atomic Red Team Hunting Lab</a>|
-| Detection engineering and MITRE ATT&CK aligned detections (MITRE ATT&CK)                                    | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/5d720c510f11e3cbab8d9441c4f096e2e9c2a3a8/03_Threat%20Detection%20lab/README.md">Threat Detection Lab</a>|
-| SIEM investigation, SPL analysis, dashboards and security event triage (Splunk, SIEM, Dashboard)                        | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/02_SIEM%20Detection%20lab/README.md">SIEM Detection Lab</a>|
-| Endpoint telemetry, Sysmon logging and security monitoring (Sysmon, Logs, Detection)             | <a href="https://github.com/Adeconcept/Home-SOC-Lab/blob/project/Endpoint%20Monitoring%20Lab/README.md">Home SOC Lab</a>|
-| Windows event investigation and PowerShell analysis (Windows, Powershell)                            | <a href="https://github.com/Adeconcept/Windows-Security-Investigation">Windows Security Investigation</a>|
-| Linux authentication, log and system investigation (Linux, Bash)                            | <a href="https://github.com/Adeconcept/Linux-Security-Investigation-Report">Linux Investigation Lab</a>|
-| Network analysis, protocols, troubleshooting (TCP/IP, Wireshark, DNS) | <a href="https://github.com/Adeconcept/Networking-Fundamentals-Lab">Networking Fundamentals</a>|
-
-
-📂 Explore the complete environment: <a href="https://github.com/Adeconcept/Home-SOC-Lab">Home SOC Lab</a> 
 
 
 ---
