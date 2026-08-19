@@ -52,7 +52,7 @@ My goal is to grow into a security professional who can understand **how systems
   Detection engineering and MITRE ATT&CK-aligned security detections.
 
 - [SIEM Detection Lab](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/02_SIEM%20Detection%20lab)  
-  SIEM investigation, SPL analysis, dashboards, and security event triage.
+  SIEM investigation, SPL analysis, dashboards, and security event triage (SPLUNK).
 
 ---
 
