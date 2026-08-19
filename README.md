@@ -209,7 +209,7 @@ Expanding my hands-on security experience across:
 - ⚙️ **Security Automation**: PowerShell, Python and repeatable security workflows
 - 🔐 **Identity Security**: privileged access, lifecycle management and access governance
 - 📋 **GRC**: control mapping, third-party risk and compliance assessments
-- - 🕵️ **Threat Hunting** — hypothesis-driven investigations and behavioral analysis
+- 🕵️ **Threat Hunting** — hypothesis-driven investigations and behavioral analysis
 
 ---
 
