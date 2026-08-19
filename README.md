@@ -70,8 +70,9 @@ My goal is to grow into a security professional who can understand **how systems
 | 🎯 **Threat Detection & Hunting** | MITRE ATT&CK • Threat Hunting • Detection Engineering • Atomic Red Team • SPL |
 | 🌐 **Network Security** | TCP/IP • DNS • Wireshark • Nmap • Packet & Traffic Analysis |
 | 💻 **Endpoint & System Security** | Sysmon • Windows Event Logs • PowerShell • Linux • Windows Security |
-| ☁️ **Cloud & Identity Security** | AWS • Cloud Security • IAM • Microsoft Sentinel |
-| 📋 **Governance, Risk & Security Management** | Risk Assessment • Control Assessment • Risk Register • Security Gap Analysis • Remediation Planning • NIST CSF |
+| ☁️ **Cloud Security** | AWS • Cloud Security Monitoring • IAM • Microsoft Sentinel |
+| 🔑 **Identity & Access Security** | IAM • RBAC • Least Privilege • Access Reviews • Identity Governance • Privileged Access |
+| 📋 **Governance, Risk & Compliance** | Risk Assessment • Control Assessment • Vendor Risk • Third-Party Risk • Compliance Review • Risk Register • Remediation Planning |
 
 ---
 
