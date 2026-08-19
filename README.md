@@ -41,7 +41,7 @@ My goal is to grow into a security professional who can understand **how systems
 
 ## 🛡️ Security Projects
 
-### ### Detection, Investigation & Security Operations
+### Detection, Investigation & Security Operations
 - [Threat Hunting Lab](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/06_Threat%20Hunting%20Lab)  
   SPL-based threat hunting, hypothesis-driven investigation, and event correlation.
 
