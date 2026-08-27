@@ -140,6 +140,11 @@ My goal is to grow into a security professional who can understand **how systems
 </div>
 
 
+**Vulnerability Management**
+<div>
+  <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
+</div>
+
 **Endpoint & Operating Systems**
 
 <div> 
