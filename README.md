@@ -74,6 +74,12 @@ My goal is to grow into a security professional who can understand **how systems
 
 ---
 
+### Vulnerability Management
+- [Vulnerability Management Lifecycle](https://github.com/Adeconcept/Velora-GmbH/tree/6e134883bec6175ada6de372441881e05dcd434a/Vulnerability-management)  
+  Vulnerability identification, risk-based prioritization, remediation tracking, validation, and lifecycle management.
+
+---
+
 ### Endpoint & System Security
 - [Endpoint Monitoring Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/project/Endpoint%20Monitoring%20Lab/README.md)  
   Endpoint telemetry, Sysmon logging, Windows event collection, and security monitoring.
@@ -111,6 +117,7 @@ My goal is to grow into a security professional who can understand **how systems
 | ☁️ **Cloud Security** | AWS • Cloud Security Monitoring • IAM • Microsoft Sentinel |
 | 🔑 **Identity & Access Security** | IAM • RBAC • Least Privilege • Access Reviews • Identity Governance • Privileged Access |
 | 📋 **Governance, Risk & Compliance** | Risk Assessment • Control Assessment • Vendor Risk • Third-Party Risk • Compliance Review • Risk Register • Remediation Planning |
+| 🔎 **Vulnerability Management** | Vulnerability Identification • Risk-Based Prioritization • CVSS • Remediation Tracking • Validation • Vulnerability Lifecycle |
 
 ---
 
