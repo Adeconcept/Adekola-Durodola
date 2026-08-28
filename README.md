@@ -76,7 +76,15 @@ My goal is to grow into a security professional who can understand **how systems
 
 ### Vulnerability Management
 - [Vulnerability Management Lifecycle](https://github.com/Adeconcept/Velora-GmbH/tree/6e134883bec6175ada6de372441881e05dcd434a/Vulnerability-management)  
-  Vulnerability identification, risk-based prioritization, remediation tracking, validation, and lifecycle management.
+  Vulnerability identification, risk-based prioritization, remediation tracking, validation, and lifecycle management using Nessus.
+
+
+---
+
+
+### Web Application Security & Penetration Testing
+- [Web Application Penetration Test](https://github.com/Adeconcept/Velora-GmbH/tree/09011d41b90fda233b661b7f6efad67f51db08fb/Web-app-Penetration-testing)  
+  Web application security testing, request manipulation, vulnerability identification, exploitation validation, and remediation recommendations using Burp Suite.
 
 ---
 
@@ -118,6 +126,7 @@ My goal is to grow into a security professional who can understand **how systems
 | 🔑 **Identity & Access Security** | IAM • RBAC • Least Privilege • Access Reviews • Identity Governance • Privileged Access |
 | 📋 **Governance, Risk & Compliance** | Risk Assessment • Control Assessment • Vendor Risk • Third-Party Risk • Compliance Review • Risk Register • Remediation Planning |
 | 🔎 **Vulnerability Management** | Vulnerability Identification • Risk-Based Prioritization • CVSS • Remediation Tracking • Validation • Vulnerability Lifecycle |
+| 🧪 **Web Application Security** | Web Application Penetration Testing • HTTP Request Analysis • Vulnerability Discovery • Exploitation Validation • Remediation Recommendations |
 
 ---
 
@@ -159,6 +168,12 @@ My goal is to grow into a security professional who can understand **how systems
 
 <div> 
     <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> 
+</div>
+
+
+### Web Application Security
+<div>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </div>
 
 
