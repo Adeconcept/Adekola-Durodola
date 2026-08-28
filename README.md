@@ -84,7 +84,7 @@ My goal is to grow into a security professional who can understand **how systems
 
 ### Application Security & Secure SDLC
 - [Application Threat Model & Secure SDLC](https://github.com/Adeconcept/Velora-GmbH/tree/55d538b8720299c170ba9ac52296f04b54083ad6/Application-threat-model-and-secure-SDLC)
-  Application threat modeling, data-flow and trust-boundary analysis, STRIDE, abuse cases, security requirements, risk-based controls, verification testing, and secure SDLC release gates.
+   Application threat modeling, data-flow and trust-boundary analysis, STRIDE, abuse cases, security requirements, risk-based controls, verification testing, and secure SDLC release gates.
 
 - [Web Application Penetration Test](https://github.com/Adeconcept/Velora-GmbH/tree/09011d41b90fda233b661b7f6efad67f51db08fb/Web-app-Penetration-testing)  
   Web application security testing, request manipulation, vulnerability identification, exploitation validation, and remediation recommendations using Burp Suite.
