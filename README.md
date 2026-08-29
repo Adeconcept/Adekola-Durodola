@@ -91,6 +91,17 @@ My goal is to grow into a security professional who can understand **how systems
 
 ---
 
+
+### Cloud Security
+
+- [AWS Cloud Security Posture Review](https://github.com/Adeconcept/Velora-GmbH/tree/project/AWS-Cloud-security-posture-review)  
+  AWS security posture assessment covering cloud configuration, identity and access controls, security risks, control gaps, and prioritized remediation recommendations.
+
+---
+
+
+---
+
 ### Endpoint & System Security
 - [Endpoint Monitoring Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/project/Endpoint%20Monitoring%20Lab/README.md)  
   Endpoint telemetry, Sysmon logging, Windows event collection, and security monitoring.
@@ -125,7 +136,7 @@ My goal is to grow into a security professional who can understand **how systems
 | 🎯 **Threat Detection & Hunting** | MITRE ATT&CK • Threat Hunting • Detection Engineering • Atomic Red Team • SPL |
 | 🌐 **Network Security** | TCP/IP • DNS • Wireshark • Nmap • Packet & Traffic Analysis |
 | 💻 **Endpoint & System Security** | Sysmon • Windows Event Logs • PowerShell • Linux • Windows Security |
-| ☁️ **Cloud Security** | AWS • Cloud Security Monitoring • IAM • Microsoft Sentinel |
+| ☁️ **Cloud Security** | AWS • Cloud Security Monitoring • IAM • Microsoft Sentinel • Security Configuration Review • Cloud Risk Assessment • Logging & Monitoring • Remediation Planning |
 | 🔑 **Identity & Access Security** | IAM • RBAC • Least Privilege • Access Reviews • Identity Governance • Privileged Access |
 | 📋 **Governance, Risk & Compliance** | Risk Assessment • Control Assessment • Vendor Risk • Third-Party Risk • Compliance Review • Risk Register • Remediation Planning |
 | 🔎 **Vulnerability Management** | Vulnerability Identification • Risk-Based Prioritization • CVSS • Remediation Tracking • Validation • Vulnerability Lifecycle |
