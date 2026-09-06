@@ -1,11 +1,13 @@
 # Hello, I'm Adekola Durodola👋
 
-> Security+ Certified | Cybersecurity Generalist | Product Designer transitioning into Security
+> Cybersecurity Generalist | IT Support & Systems | CompTIA Security+ | Security Operations • Cloud • IAM • GRC • AppSec
 
-I’m building hands-on cybersecurity experience across security operations, threat detection, threat hunting, network security, identity management, endpoint monitoring, cloud security, incident investigation & response and secure product experiences.
 
-I bring 6+ years of experience designing digital products across fintech, Web3, logistics, and enterprise environments, applying the same systems thinking, problem-solving, documentation, and risk-focused mindset to cybersecurity.
-Now I’m applying that problem-solving mindset to technology and a dedication to solving complex problems in cybersecurity.
+I work across security operations, IT support, endpoint security, networking, identity and access management, cloud security, application security, Incidence investigation & response and risk.
+
+My background in Product Design adds a human-centered systems perspective, helping me understand how people interact with technology, where workflows break down, where security risks emerge, and how technical solutions can be made more usable and effective.
+
+Through hands-on projects, I investigate security events, troubleshoot Windows and Linux systems, analyze network traffic, review access controls, assess vulnerabilities, evaluate cloud environments, and translate technical findings into practical remediation actions.
 
 <div>
     <a href="https://linkedin.com/in/dk12"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -142,6 +144,8 @@ My goal is to grow into a security professional who can understand **how systems
 | 🔎 **Vulnerability Management** | Vulnerability Identification • Risk-Based Prioritization • CVSS • Remediation Tracking • Validation • Vulnerability Lifecycle |
 | 🧪 **Web Application Security** | Web Application Penetration Testing • HTTP Request Analysis • Vulnerability Discovery • Exploitation Validation • Remediation Recommendations |
 | 🧩 **Application Security & Secure SDLC** | Threat Modeling • STRIDE • Data Flow Analysis • Trust Boundaries • Abuse Cases • OWASP ASVS • NIST SSDF • Secure SDLC • Security Requirements • Web Application Testing |
+| 🖥️ **IT Support & Systems** | Technical Troubleshooting • Windows • Linux • PowerShell • User Support • Endpoint Support • Network Troubleshooting • Account & Access Management • System Administration Fundamentals |
+
 
 
 ---
