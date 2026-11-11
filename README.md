@@ -1,13 +1,12 @@
 # Hello, I'm Adekola Durodola👋
 
-> Cybersecurity Generalist | IT Support & Systems | CompTIA Security+ | Security Operations • Cloud • IAM • GRC • AppSec
+> CompTIA Security+ Certified | Digital Product Design Background |  • AppSec/Devsecops • Cloud Security • AI Security • GRC • Security Operations
 
+I'm a cybersecurity practitioner with over six years of experience in digital product design, now focusing on securing web applications, APIs, AI-powered systems, and cloud environments.
 
-I work across security operations, IT support, endpoint security, networking, identity and access management, cloud security, application security, Incidence investigation & response and risk.
+My work combines application threat modeling, hands-on security testing, cloud configuration assessment, and practical remediation. I bring a product-focused perspective to identifying how design decisions, authentication, authorization, and infrastructure affect security.
 
-My background in Product Design adds a human-centered systems perspective, helping me understand how people interact with technology, where workflows break down, where security risks emerge, and how technical solutions can be made more usable and effective.
-
-Through hands-on projects, I investigate security events, troubleshoot Windows and Linux systems, analyze network traffic, review access controls, assess vulnerabilities, evaluate cloud environments, and translate technical findings into practical remediation actions.
+This portfolio documents my technical labs, simulated security engagements, and authorized organizational security work, with an emphasis on reproducible evidence, clear findings, and validated improvements.
 
 <div>
     <a href="https://linkedin.com/in/dk12"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
