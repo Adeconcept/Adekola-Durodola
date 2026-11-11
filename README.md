@@ -42,6 +42,24 @@ My goal is to grow into a security professional who can understand **how systems
 
 ## 🛡️ Security Projects
 
+
+
+### Application Security & Secure SDLC
+- [Application Threat Model & Secure SDLC](https://github.com/Adeconcept/Velora-GmbH/tree/55d538b8720299c170ba9ac52296f04b54083ad6/Application-threat-model-and-secure-SDLC)
+ Application threat modeling, data-flow and trust-boundary analysis, STRIDE, abuse cases, security requirements, risk-based controls, verification testing, and secure SDLC release gates.
+
+- [Web Application Penetration Test](https://github.com/Adeconcept/Velora-GmbH/tree/09011d41b90fda233b661b7f6efad67f51db08fb/Web-app-Penetration-testing)
+ Web application security testing, request manipulation, vulnerability identification, exploitation validation, and remediation recommendations using Burp Suite.
+
+---
+
+### Cloud Security
+
+- [AWS Cloud Security Posture Review](https://github.com/Adeconcept/Velora-GmbH/tree/project/AWS-Cloud-security-posture-review)  
+  AWS security posture assessment covering cloud configuration, identity and access controls, security risks, control gaps, and prioritized remediation recommendations.
+
+---
+
 ### Detection, Investigation & Security Operations
 - [Threat Hunting Lab](https://github.com/Adeconcept/Home-SOC-Lab/tree/886679dea444ce083f11e2dd6e7f4cabbbab644d/06_Threat%20Hunting%20Lab)  
   SPL-based threat hunting, hypothesis-driven investigation, and event correlation.
@@ -82,27 +100,6 @@ My goal is to grow into a security professional who can understand **how systems
 
 ---
 
-
-### Application Security & Secure SDLC
-- [Application Threat Model & Secure SDLC](https://github.com/Adeconcept/Velora-GmbH/tree/55d538b8720299c170ba9ac52296f04b54083ad6/Application-threat-model-and-secure-SDLC)
- Application threat modeling, data-flow and trust-boundary analysis, STRIDE, abuse cases, security requirements, risk-based controls, verification testing, and secure SDLC release gates.
-
-- [Web Application Penetration Test](https://github.com/Adeconcept/Velora-GmbH/tree/09011d41b90fda233b661b7f6efad67f51db08fb/Web-app-Penetration-testing)
- Web application security testing, request manipulation, vulnerability identification, exploitation validation, and remediation recommendations using Burp Suite.
-
----
-
-
-### Cloud Security
-
-- [AWS Cloud Security Posture Review](https://github.com/Adeconcept/Velora-GmbH/tree/project/AWS-Cloud-security-posture-review)  
-  AWS security posture assessment covering cloud configuration, identity and access controls, security risks, control gaps, and prioritized remediation recommendations.
-
----
-
-
----
-
 ### Endpoint & System Security
 - [Endpoint Monitoring Lab](https://github.com/Adeconcept/Home-SOC-Lab/blob/project/Endpoint%20Monitoring%20Lab/README.md)  
   Endpoint telemetry, Sysmon logging, Windows event collection, and security monitoring.
@@ -133,16 +130,16 @@ My goal is to grow into a security professional who can understand **how systems
 
 | Domain | Skills & Technologies |
 |---|---|
+| 🧪 **Web Application Security** | Web Application Penetration Testing • HTTP Request Analysis • Vulnerability Discovery • Exploitation Validation • Remediation Recommendations |
+| 🧩 **Application Security & Secure SDLC** | Threat Modeling • STRIDE • Data Flow Analysis • Trust Boundaries • Abuse Cases • OWASP ASVS • NIST SSDF • Secure SDLC • Security Requirements • Web Application Testing |
+| ☁️ **Cloud Security** | AWS • Cloud Security Monitoring • IAM • Microsoft Sentinel • Security Configuration Review • Cloud Risk Assessment • Logging & Monitoring • Remediation Planning |
 | 🛡️ **Security Operations** | SIEM • Security Monitoring • Log Analysis • Alert Investigation • Incident Triage |
 | 🎯 **Threat Detection & Hunting** | MITRE ATT&CK • Threat Hunting • Detection Engineering • Atomic Red Team • SPL |
 | 🌐 **Network Security** | TCP/IP • DNS • Wireshark • Nmap • Packet & Traffic Analysis |
 | 💻 **Endpoint & System Security** | Sysmon • Windows Event Logs • PowerShell • Linux • Windows Security |
-| ☁️ **Cloud Security** | AWS • Cloud Security Monitoring • IAM • Microsoft Sentinel • Security Configuration Review • Cloud Risk Assessment • Logging & Monitoring • Remediation Planning |
 | 🔑 **Identity & Access Security** | IAM • RBAC • Least Privilege • Access Reviews • Identity Governance • Privileged Access |
 | 📋 **Governance, Risk & Compliance** | Risk Assessment • Control Assessment • Vendor Risk • Third-Party Risk • Compliance Review • Risk Register • Remediation Planning |
 | 🔎 **Vulnerability Management** | Vulnerability Identification • Risk-Based Prioritization • CVSS • Remediation Tracking • Validation • Vulnerability Lifecycle |
-| 🧪 **Web Application Security** | Web Application Penetration Testing • HTTP Request Analysis • Vulnerability Discovery • Exploitation Validation • Remediation Recommendations |
-| 🧩 **Application Security & Secure SDLC** | Threat Modeling • STRIDE • Data Flow Analysis • Trust Boundaries • Abuse Cases • OWASP ASVS • NIST SSDF • Secure SDLC • Security Requirements • Web Application Testing |
 | 🖥️ **IT Support & Systems** | Technical Troubleshooting • Windows • Linux • PowerShell • User Support • Endpoint Support • Network Troubleshooting • Account & Access Management • System Administration Fundamentals |
 
 
